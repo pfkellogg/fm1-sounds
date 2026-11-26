@@ -1,0 +1,67 @@
+{
+ "about": "FM-1 Big Screen's Mellotron-style sounds, for web pages: sounds/<id>/043.flac .. 077.flac (G2..F5, 8 s each). Made from scratch by programs (github.com/pfkellogg/fm1-mirror-spyglass-android/tools), free to use in your own music.",
+ "low": 43,
+ "high": 77,
+ "sounds": [
+  {
+   "id": "flute",
+   "name": "Flute"
+  },
+  {
+   "id": "strings",
+   "name": "Strings"
+  },
+  {
+   "id": "choir",
+   "name": "Choir"
+  },
+  {
+   "id": "shakuhachi",
+   "name": "Shakuhachi"
+  },
+  {
+   "id": "flugelhorn",
+   "name": "Flugelhorn"
+  },
+  {
+   "id": "trumpet",
+   "name": "Trumpet"
+  },
+  {
+   "id": "violin",
+   "name": "Violin"
+  },
+  {
+   "id": "cello",
+   "name": "Cello"
+  },
+  {
+   "id": "frenchhorn",
+   "name": "French Horn"
+  },
+  {
+   "id": "harmonica",
+   "name": "Harmonica"
+  },
+  {
+   "id": "altosax",
+   "name": "Alto Sax"
+  },
+  {
+   "id": "clarinet",
+   "name": "Clarinet"
+  },
+  {
+   "id": "oboe",
+   "name": "Oboe"
+  },
+  {
+   "id": "accordion",
+   "name": "Accordion"
+  },
+  {
+   "id": "vibraphone",
+   "name": "Vibraphone"
+  }
+ ]
+}
