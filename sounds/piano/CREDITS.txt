@@ -1,0 +1,4 @@
+Grand Piano for FM-1 Big Screen: 35 strips (G2-F5) made from the Salamander Grand Piano, a Yamaha C5 recorded by
+Alexander Holm, licensed CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/):
+https://github.com/sfzinstruments/SalamanderGrandPiano . Made with tools/make_grand_piano.py
+(github.com/pfkellogg/fm1-mirror-spyglass-android): one loudness layer, re-pitched to every key, mono, 8 s.
