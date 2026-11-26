@@ -32,8 +32,12 @@
    "name": "Violin"
   },
   {
-   "id": "cello",
-   "name": "Cello"
+   "id": "brass",
+   "name": "Brass"
+  },
+  {
+   "id": "sitar",
+   "name": "Sitar"
   },
   {
    "id": "frenchhorn",
