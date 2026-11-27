@@ -80,6 +80,26 @@
    "name": "Triangle Bells (FM)"
   },
   {
+   "id": "fmepiano",
+   "name": "FM Electric Piano"
+  },
+  {
+   "id": "fmtubular",
+   "name": "FM Tubular Bells"
+  },
+  {
+   "id": "glasschoir",
+   "name": "Glass Choir"
+  },
+  {
+   "id": "crystalstrings",
+   "name": "Crystal Strings"
+  },
+  {
+   "id": "glassharmonica",
+   "name": "Glass Harmonica"
+  },
+  {
    "id": "piano",
    "name": "Grand Piano",
    "credit": "Salamander Grand Piano (Yamaha C5) by Alexander Holm, CC-BY 3.0"
